@@ -1,0 +1,28 @@
+{
+  "name": "Homestudy Day 3 CodeLab 1",
+  "version": "1.0.0",
+  "description": "A repository showing a simple function that returns the reverse of a string passed to it as a parameter",
+  "main": "app/CodeLab.js",
+  "scripts": {
+    "test": "spec/test-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darasimiolaifa/homestudy_day_3_codeLab1.git"
+  },
+  "keywords": [
+    "OOP",
+    "Class",
+    "javascript",
+    "ES6"
+  ],
+  "author": "Olaifa Darasimi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darasimiolaifa/homestudy_day_3_codeLab1/issues"
+  },
+  "homepage": "https://github.com/darasimiolaifa/homestudy_day_3_codeLab1.git#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
